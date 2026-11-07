@@ -1,0 +1,1 @@
+This repository covers work done at codeyetu during November 2026 bootcamp
